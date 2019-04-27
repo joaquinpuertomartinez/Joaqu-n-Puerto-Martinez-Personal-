@@ -1,2 +1,2 @@
-# Joaqu-n-Puerto-Martinez-Personal-
-Repositorio donde colgare alguno de mis proyectos . 
+# Joaquin  Puerto  Martinez 
+Repositorio donde colgaré alguno de mis proyectos . 
