@@ -1,0 +1,10 @@
+//PI2//
+--El problema consiste en dada una lista ordenarla con respecto a un orden dado. Para
+ello se parte la lista en dos mitades iguales, se ordena cada sublista y mezclan ordenadamente los
+resultados mediante al algoritmo de fusión de listas (algoritmo de Mergesort).
+
+//PI3// 
+--Decidir si un árbol binario está ordenado. Un árbol binario está ordenado si bien
+es vacío o es una hoja o bien cumple que su raíz es mayor o igual a todas las etiquetas de su hijo
+izquierdo y su raíz es menor o igual a todas las etiquetas de su hijo derecho y además sus hijos
+(izquierdo y derecho) están ordenados.
